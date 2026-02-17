@@ -33,4 +33,9 @@ A Spring Boot based Weather Forecast Application that fetches real-time weather 
 ---
 
 ## 📂 Project Structure
-
+weather-forecast-springboot
+│── controller
+│── service
+│── model
+│── resources
+│── pom.xml
